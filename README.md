@@ -2,7 +2,7 @@
 
 ## ✨ **Merlina Bárbara Dowgaluk**  ✨ 
 
-- 🌱 I’m currently learning at [4Geeks Academy](https://4geeksacademy.com/us/index)
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/merlina-dowgaluk/) | [Mail](merlina.dowgaluk@gmail.com)
 - 😄 Pronouns: She/Her
 
