@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## ✨ **Merlina Bárbara Dowgaluk**  ✨ 
+## ✨ **Merlina Bárbara Dowgaluk - Full Stack Developer**  ✨ 
+
+> ***Always looking to improve my skills and contribute to the success of projects.***
 
 - 🌱 I really want to deepen my knowledge in Python
 - 🔭 I’m currently working on my final proyect at [4Geeks Academy](https://4geeksacademy.com/us/index) called [InfluJobs](https://github.com/MerlinaDowgaluk/InfluJobs-final-project)
@@ -8,8 +10,6 @@
 - 😄 Pronouns: She/Her
 
 #### **🎓 Education**
-
-> ***In the process of being Full Stack developer***
 
 - Full Stack Developer Bootcamp in [4Geeks Academy](https://4geeksacademy.com/us/index), 2023
 - Course Python Full Stack in Programa Codo a Codo 4.0, Buenos Aires, 2021
