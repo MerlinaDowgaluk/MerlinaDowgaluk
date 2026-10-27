@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ✨ **Merlina Bárbara Dowgaluk - Full Stack Developer**  ✨ 
+## ✨ **Merlina Ormeño - Full Stack Developer**  ✨ 
 
 > ***Always looking to improve my skills and contribute to the success of projects.***
 
