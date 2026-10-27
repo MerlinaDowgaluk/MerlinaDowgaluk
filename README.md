@@ -2,11 +2,11 @@
 
 ## ✨ **Merlina Ormeño - Full Stack Developer**  ✨ 
 
-> ***Always looking to improve my skills and contribute to the success of projects.***
+Full Stack Developer passionate about building clean, useful web applications. Always looking to improve my skills and contribute to the success of every project I join.
 
 - 🌱 I really want to deepen my knowledge in Python
-- 🔭 I’m currently working on my final proyect at [4Geeks Academy](https://4geeksacademy.com/us/index) called [InfluJobs](https://github.com/MerlinaDowgaluk/InfluJobs-final-project)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/merlina-dowgaluk/) | [Mail](merlina.dowgaluk@gmail.com)
+- 💼 Currently working as a Full Stack Developer, building and maintaining web applications
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/merlina-ormeno/) | [Mail](merlina.ormeno@gmail.com)
 - 😄 Pronouns: She/Her
 
 #### **🎓 Education**
